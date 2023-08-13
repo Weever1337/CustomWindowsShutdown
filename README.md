@@ -8,6 +8,8 @@ Writes in console shutdown /s (or /r) /t (your time in choice)
 - Open it
 - Choice time
 - Choice reboot or turn off (1 or 2)
+
+
 that's all!
 
 
