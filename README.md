@@ -14,8 +14,6 @@ that's all!
 
 # Photo?? (v0.2)
 
-![2023-08-19_23-58](https://github.com/fraylubit/CustomWindowsShutdown/assets/109693401/e81ad0b3-d716-4361-8d71-1564f6107815)
+![2023-08-20_00-03](https://github.com/fraylubit/CustomWindowsShutdown/assets/109693401/71ad2f81-ba16-4231-877c-05e9254287bf)
 
-
-ty for watching this❤️
-please star⭐
+thank you for watching this❤️
